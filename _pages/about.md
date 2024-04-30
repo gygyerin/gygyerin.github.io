@@ -18,10 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Welcome! 
+<h3>Welcome!</h3>
 
 <!-- I received M.S. in Civil and Environmental Engineering and B.S. in Chemistry from Seoul National University. -->
 
-<h3> More information coming soon </h3>
+More information coming soon 
 
 <div style="height: 4rem"></div>
