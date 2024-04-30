@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+# cv_pdf: CV_240430.pdf
+description: To be updated # <p style='font-size:1.2rem; margin-bottom:1rem'>PDF version is <a href='/assets/pdf/CV_240430.pdf' target='_blank'>here</a>.</p>
 toc:
-  sidebar: left
+  # sidebar: left
 ---
