@@ -1,22 +1,16 @@
-# - title: Education
-#   type: time_table
-#   contents:
-#     - title: Seoul National University
-#       institution: Seoul, South Korea
-#       year: 2015 - 2024
-#       description:
-#         - B.S. in Physics and B.A. in Economics (Graduating August 2024)
-#         - Minor in Computer Science and Engineering
-#         # - title: Description 3.
-#         #   contents:
-#         #     - Sub-description 1.
-#         #     - Sub-description 2.
-#     - title: Gyeonggi Science High School for the gifted
-#       institution: Suwon, South Korea
-#       year: 2012 - 2015
-#       description:
-#         - Math and Science Specialized High School for the gifted
-#         - Mainly focused on physics and mathematics
+- title: Education
+  type: time_table
+  contents:
+    - title: Seoul National University
+      institution: Seoul, South Korea
+      year: 2022 - 2024
+      description:
+        - M.S. in Civil and Environmental Engineering
+    - title: Seoul National University
+      institution: Seoul, South Korea
+      year: 2017 - 2022
+      description:
+        - B.S. in Chemistry
 
 # - title: Experience
 #   type: time_table
