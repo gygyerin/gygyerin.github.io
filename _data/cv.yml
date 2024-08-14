@@ -11,50 +11,44 @@
       year: 2017 - 2022
       description:
         - B.S. in Chemistry
-
 - title: Experience
   type: time_table
- contents:
-   - title: Research Intern
-     institution: Metabolism-Carbon Modeling Group, SNU
-     year: Mar. 2024 - Present
-     description:
-         - Advised by <a href="https://sites.google.com/view/selab-snu">Jooyoung Park</a>
-         - Food-related Nitrogen flow analysis in Korea
-
-   - title: Postmaster fellow
-     institution: Sustainable Environmental Technology Lab, SNU
-     year: Mar. 2024 - Present
-     description:
-         - Advised by <a href="https://set.snu.ac.kr/">Jong Kwon Choe</a>
-         - Determination and sorption removal of PFASs in industrial wastewater
-
-   - title: Research Assistant
-     institution: Sustainable Environmental Technology Lab, SNU
-     year: Mar. 2022 - Feb. 2024
-     description:
-         - Degradation of PFASs mixture in regenerant condition by UV/sulfite process
-         - Monitoring PFASs by 19F NMR
-
-   - title: Undergraduate Research Intern
-     institution: Sustainable Environmental Technology Lab, SNU
-     year: Mar. 2021 - Feb. 2022
-     description:
-         - Degradation of aqueous PFASs via photoreductive processes
-
-   - title: Undergraduate Research Intern
-     institution: Inorganic Molecular Conversion Lab, SNU
-     year: Jun. 2020 - Feb. 2021
-     description:
-         - Advised by <a href="https://sites.google.com/view/yunhochem/home">Yunho Lee</a>
-         - Synthesis of less rigid acri-PNP ligand to offer enhanced reactivity toward carbonyl conversion
-
-   - title: Undergraduate Research Intern
-     institution: Synthetic Organic Chemistry Lab, SNU
-     year: Jun. 2019 - Feb. 2020
-     description:
-         - Advised by <a href="http://hglgroup.or.kr/">Hong Geun Lee</a>
-         - Enantioselective N-centered radical conjugate addition to activated alkene
+  contents:
+    - title: Research Intern
+      institution: Metabolism-Carbon Modeling Group, SNU
+      year: Mar. 2024 - Present
+      description:
+          - Advised by <a href="https://sites.google.com/view/selab-snu">Jooyoung Park</a>
+          - Food-related Nitrogen flow analysis in Korea
+    - title: Postmaster fellow
+      institution: Sustainable Environmental Technology Lab, SNU
+      year: Mar. 2024 - Present
+      description:
+          - Advised by <a href="https://set.snu.ac.kr/">Jong Kwon Choe</a>
+          - Determination and sorption removal of PFASs in industrial wastewater
+    - title: Research Assistant
+      institution: Sustainable Environmental Technology Lab, SNU
+      year: Mar. 2022 - Feb. 2024
+      description:
+          - Degradation of PFASs mixture in regenerant condition by UV/sulfite process
+          - Monitoring PFASs by 19F NMR
+    - title: Undergraduate Research Intern
+      institution: Sustainable Environmental Technology Lab, SNU
+      year: Mar. 2021 - Feb. 2022
+      description:
+          - Degradation of aqueous PFASs via photoreductive processes
+    - title: Undergraduate Research Intern
+      institution: Inorganic Molecular Conversion Lab, SNU
+      year: Jun. 2020 - Feb. 2021
+      description:
+          - Advised by <a href="https://sites.google.com/view/yunhochem/home">Yunho Lee</a>
+          - Synthesis of less rigid acri-PNP ligand to offer enhanced reactivity toward carbonyl conversion
+    - title: Undergraduate Research Intern
+      institution: Synthetic Organic Chemistry Lab, SNU
+      year: Jun. 2019 - Feb. 2020
+      description:
+          - Advised by <a href="http://hglgroup.or.kr/">Hong Geun Lee</a>
+          - Enantioselective N-centered radical conjugate addition to activated alkene
 
 #     - title: Research Assistant
 #       institution: <a href="http://ldi.snu.ac.kr/">Language & Data Intelligence Lab</a>, SNU
