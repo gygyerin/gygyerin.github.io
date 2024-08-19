@@ -15,16 +15,16 @@
   type: time_table
   contents:
     - title: Research Intern
-      institution: Metabolism-Carbon Modeling Group, SNU
+      institution: <a href="https://sites.google.com/view/selab-snu">Metabolism-Carbon Modeling Group</a>, SNU
       year: Mar. 2024 - Present
       description:
-          - Advised by <a href="https://sites.google.com/view/selab-snu">Jooyoung Park</a>
+          - Advised by Jooyoung Park
           - Food-related Nitrogen flow analysis in Korea
     - title: Postmaster fellow
-      institution: Sustainable Environmental Technology Lab, SNU
+      institution: <a href="https://set.snu.ac.kr/">Sustainable Environmental Technology Lab</a>, SNU
       year: Mar. 2024 - Present
       description:
-          - Advised by <a href="https://set.snu.ac.kr/">Jong Kwon Choe</a>
+          - Advised by Jong Kwon Choe
           - Determination and sorption removal of PFASs in industrial wastewater
     - title: Research Assistant
       institution: Sustainable Environmental Technology Lab, SNU
@@ -38,16 +38,16 @@
       description:
           - Degradation of aqueous PFASs via photoreductive processes
     - title: Undergraduate Research Intern
-      institution: Inorganic Molecular Conversion Lab, SNU
+      institution: <a href="https://sites.google.com/view/yunhochem/home">Inorganic Molecular Conversion Lab</a>, SNU
       year: Jun. 2020 - Feb. 2021
       description:
-          - Advised by <a href="https://sites.google.com/view/yunhochem/home">Yunho Lee</a>
+          - Advised by Yunho Lee
           - Synthesis of less rigid acri-PNP ligand to offer enhanced reactivity toward carbonyl conversion
     - title: Undergraduate Research Intern
-      institution: Synthetic Organic Chemistry Lab, SNU
+      institution: <a href="http://hglgroup.or.kr/">Synthetic Organic Chemistry Lab</a>, SNU
       year: Jun. 2019 - Feb. 2020
       description:
-          - Advised by <a href="http://hglgroup.or.kr/">Hong Geun Lee</a>
+          - Advised by Hong Geun Lee
           - Enantioselective N-centered radical conjugate addition to activated alkene
 
 #     - title: Research Assistant
