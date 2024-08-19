@@ -11,7 +11,7 @@
       year: 2017 - 2022
       description:
         - B.S. in Chemistry
-- title: Experience
+- title: Research Experiences
   type: time_table
   contents:
     - title: Research Intern
@@ -27,13 +27,13 @@
           - Advised by Jong Kwon Choe
           - Determination and sorption removal of PFASs in industrial wastewater
     - title: Research Assistant
-      institution: Sustainable Environmental Technology Lab, SNU
+      institution: <a href="https://set.snu.ac.kr/">Sustainable Environmental Technology Lab</a>, SNU
       year: Mar. 2022 - Feb. 2024
       description:
           - Degradation of PFASs mixture in regenerant condition by UV/sulfite process
           - Monitoring PFASs by 19F NMR
     - title: Undergraduate Research Intern
-      institution: Sustainable Environmental Technology Lab, SNU
+      institution: <a href="https://set.snu.ac.kr/">Sustainable Environmental Technology Lab</a>, SNU
       year: Mar. 2021 - Feb. 2022
       description:
           - Degradation of aqueous PFASs via photoreductive processes
@@ -50,53 +50,73 @@
           - Advised by Hong Geun Lee
           - Enantioselective N-centered radical conjugate addition to activated alkene
 
-#     - title: Research Assistant
-#       institution: <a href="http://ldi.snu.ac.kr/">Language & Data Intelligence Lab</a>, SNU
-#       year: 2023 - 2024
-#       description:
-#         - Advised by <a href="https://seungwonh.github.io/">Seung-won Hwang</a>
-#         - Explored to improve low-resource information retrieval
-#         - Explored to improve retrieval-based LM on ODQA
+- title: Presentations
+  type: time_table
+  contents:
+    - year: Aug. 2023
+      items:
+          - Yerin Choe & Jong Kwon Choe (2023, August 16-21). Influence of regenerant conditions on degradation and defluorination efficiency of UV/sulfite reductive treatment of PFASs in sorption regenerant [In-person oral presentation]. ACS Fall 2023, San Francisco, CA, United States.
+    - year: Nov. 2022
+      items:
+          - Yerin Choe & Jong Kwon Choe (2022, November 8-11). Investigation on photoreductive degradation products and degradation mechanisms of perfluorooctane sulfonate (PFOS) using 19F NMR characterization [Poster session]. 2022 Korean Society of Environmental Engineers Conference, Jeju, Republic of Korea.
+  
+- title: Projects
+  type: time_table
+  contents:
+    - title: Adsorption-based removal technology and detoxification of PFASs (Samsung Electronics)
+      year: Feb. 2024 – Present
+      items:
+        - Soprtion treatment of PFASs in wastewater with activated carbon and ion-exchange resin
+        - Chromatographic analysis of PFASs in wastewater
+        - Validating treatmen efficiency by Rapid Small-Scale Column Test (RSSCT)
 
-#     # - title: Software Engineer
-#     #   institution: Gravity Labs Co., Ltd.
-#     #   year: 2022 - 2023
-#     #   description:
-#     #     - Developed mobile applications, websites and smart contracts
+    - title: Integration and Utilization Framework for Carbon Neutrality Technology Information (Korea Environment Institute)
+      year: Aug. 2024 – Present
+      items: 
+        - Collection of process flow and carbon neutrality technology information for the petroleum refining sector
 
-#     - title: Deep Learning Engineer
-#       institution: <a href="https://www.voyagerx.com/?lang=en">VoyagerX</a>
-#       year: 2022
-#       description:
-#         - AI-based startup, raised $27m from SoftBank, others
-#         - Developed end-to-end text-to-speech synthesis models
-#         - Explored to develop photo-realistic hairstyle transfer models
+    - title: Super Recalcitrant PFAS Treatment LAB (National Research Foundation of Korea)
+      year: Mar. 2021 – Feb. 2024
+      items: 
+        - Reductive treatment of aqueous PFASs
+    
+    - title: Precise Analysis of PFCs in G-tower Wastewater (Samsung Electronics)
+      year: Jul. 2023 – Dec. 2023
+      items: 
+        - Quantification and qualification of PFASs by NMR
 
-#     - title: Machine Learning Engineer Intern, AI Lab
-#       institution: <a href="https://kakaoenterprise.com/">Kakao Enterprise Corp.</a>
-#       year: 2021 - 2022
-#       description:
-#         - Explored low-resource domain adaptation for neural machine translation
-#         - Explored to develop style-controllable neural machine translation models
+- title: Extracurricular
+  type: time_table
+  contents:
+    - title: Volunteering Engineers & Scientists of SNU (VESS)
+      year: Mar. 2021 – Feb. 2022
+      itmes:
+       - Team Member
+      description:
+        - Development of assistive device for improving mobility rights of visually impaired individuals
+    - title: College of Natural Sciences Students’ Government
+      year: Sep. 2017 - Nov. 2019
+      items:
+        - Vice President (Oct. 2018 – Mar. 2019)
+        - Head of the Marketing and Communications (Apr. 2019 - Nov. 2019)
+    - title: 2018 Summer Science Volunteering Camp
+      year: Aug. 2018
+      itmes:
+       - Organizing committee
+      description:
+        - Engaging in planning and volunteer work for science education and mentoring programs in rural communities
+    - title: 2017 Summer Science Volunteering Camp
+      year: Aug. 2017
+      itmes:
+       - Organizing committee
+      description:
+        - Engaging in planning and volunteer work for science education and mentoring programs in rural communities
+    - title: SNU Girls' Dance Crew (Go Ahead)
+      year: 2017 – 2022
+      items:
+        - Vice President (Feb. 2018 – Feb. 2019)
+     
 
-# # - title: Honors and Awards
-# #   type: time_table
-# #   contents:
-# #     - year: 1921
-# #       items:
-# #         - Nobel Prize in Physics
-# #         - Matteucci Medal
-# #     - year: 2029
-# #       items:
-# #         - Max Planck Medal
-
-# - title: Teaching
-#   type: time_table
-#   contents:
-#     - year: 2024
-#       items:
-#         - Worked as Undergraduate TA for Data Structure at SNU
-#         - Worked as Undergraduate TA for Foundation of Physics 1 at SNU
 
 
 # - title: Scholarship and Award

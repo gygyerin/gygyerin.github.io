@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher at Sustainable Environmental Technology Lab, SNU # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle:  # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: # profile.jpeg # prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: # >
     # <p>555 your office number</p>
@@ -15,13 +15,21 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
-
+<br>
 <h3>Welcome!</h3>
 
 <!-- I received M.S. in Civil and Environmental Engineering and B.S. in Chemistry from Seoul National University. -->
 
-More information coming soon 
+<br>I am a Research Assistant at the Sustainable Environmental Technologies Lab in the Department of Civil and Environmental Engineering at Seoul National University. With a background in chemistry and environmental engineering, I am deeply interested in advancing water treatment technologies and conducting environmental impact analyses to support informed decision-making. For more details, please see the sections below or visit my <a href="https://gygyerin.github.io/cv/">CV</a> page.
+<br>
+<br>
+<b>Areas of Focus:</b>
+<br>
+<b>• Water treatment:</b> Development of water treatment technologies for practical demonstration, Physico-chemical treatment of micropollutants, Determination and degradation of PFASs
+<br>
+<b>• Environmental impact analysis:</b> Material flow analysis (MFA) of basic element, Assessment of environmental impact of product and technology with life-cycle assessment (LCA), Environmental impact assessment of emerging technologies and industrial system 
 
-<div style="height: 4rem"></div>
+
+<div style="height: 0rem"></div>
