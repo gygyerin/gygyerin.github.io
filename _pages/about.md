@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 <br>
 <b>Areas of Focus:</b>
 <br>
-<b>• Water treatment:</b> Development of water treatment technologies for practical demonstration, Physico-chemical treatment of micropollutants, Determination and degradation of PFASs, Byproduct formation after water treatment, Fate of micropollutant, Process design for water reuse
+<b>• Water treatment:</b> Development of water treatment technologies for practical demonstration, Physico-chemical treatment of micropollutants, Determination and degradation of PFASs, Byproduct formation after water treatment, Fate of micropollutant, Sustainable process design
 <br>
 <b>• Environmental impact analysis:</b> Material flow analysis (MFA) of basic element, Assessment of environmental impact of product and technology with life-cycle assessment (LCA), Environmental impact assessment of emerging technologies and industrial system, Framework development considering socioeconomic factors
 
