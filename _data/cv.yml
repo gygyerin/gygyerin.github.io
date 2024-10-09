@@ -139,8 +139,10 @@
       description:
             - Fall 2020
     - title: Alumni Association Scholarship (for undergraduate students)
+      description:
            - Spring 2019
     - title: Merit-based Scholarship (50% tuition)
+      description:
            - Spring 2018
 #     - title: Samsung HumanTech Paper Award
 #       institution: Samsung Electronics

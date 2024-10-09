@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Research
+title: research
 permalink: /research/
 description: A growing collection of my projects.
-nav: false
-nav_order: 3
-display_categories: [work, fun]
+nav: true
+nav_order: 2
+display_categories: [Water treatment, Industrial ecology]
 horizontal: false
 ---
 
