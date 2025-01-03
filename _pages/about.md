@@ -27,9 +27,9 @@ social: true # includes social icons at the bottom of the page
 <br>
 <b>Areas of Focus:</b>
 <br>
-<b>• Water treatment:</b> Development of water treatment technologies for practical demonstration, Physico-chemical treatment of micropollutants, Determination and degradation of PFASs, Byproduct formation after water treatment, Fate of micropollutant, Sustainable process design
+<b>• Water treatment:</b> physico-chemical water treatment, water-energy-environment nexus, water reuse, resource recovery, photochemical degradation, organic micropollutants, byproduct formation, sustainable process design, per- and polyfluoroalkyl substances (PFAS)
 <br>
-<b>• Environmental impact analysis:</b> Material flow analysis (MFA) of basic element, Assessment of environmental impact of product and technology with life-cycle assessment (LCA), Environmental impact assessment of emerging technologies and industrial system, Framework development considering socioeconomic factors
+<b>• Environmental impact analysis:</b> Life-cycle assessment (LCA) of products and emerging technologies, macroscopic-scale material flow analysis (MFA), energy model,  decarbonization, water-energy-environment nexus, framework development incorporating artificial intelligence (AI)
 
 
 <div style="height: 0rem"></div>

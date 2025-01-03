@@ -10,7 +10,7 @@
       institution: Seoul, South Korea
       year: 2017 - 2022
       description:
-        - B.S. in Chemistry
+        - B.S. in Chemistry (cum laude)
 - title: Research Experience
   type: time_table
   contents:
@@ -53,6 +53,9 @@
 - title: Presentations
   type: time_table
   contents:
+    - year: Nov. 2024
+      items:
+          - Yerin Choe & Jong Kwon Choe (2024, November 6-8). The impact of organic solvents and inorganic salts on the treatment of per- and polyfluoroalkyl substances and strategies for mitigation [In-person oral presentation]. 2024 Korean Society of Environmental Engineers Conference, Yeosu, South Korea.
     - year: Aug. 2023
       items:
           - Yerin Choe & Jong Kwon Choe (2023, August 16-21). Influence of regenerant conditions on degradation and defluorination efficiency of UV/sulfite reductive treatment of PFASs in sorption regenerant [In-person oral presentation]. ACS Fall 2023, San Francisco, CA, United States.
@@ -64,7 +67,7 @@
   type: time_table
   contents:
     - title: Adsorption-based removal technology and detoxification of PFASs (Samsung Electronics)
-      year: Feb. 2024 – Present
+      year: Feb. 2024 – Nov. 2024
       items:
         - Soprtion treatment of PFASs in wastewater with activated carbon and ion-exchange resin
         - Chromatographic analysis of PFASs in wastewater

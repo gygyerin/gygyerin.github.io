@@ -10,7 +10,11 @@ related_publications: false
 
 
 
-Detailed description coming soon!
+Per- and polyfluoroalkyl substances (PFAS) are persistent organic pollutants (POPs) that pose significant environmental concern owing to their stability and toxicity. Connecting sorption, regeneration, and the UV/sulflite process is a promising strategy to address this issue. However, the presence of regenerant components such as organic solvents and/or inorganic salts, along with the mixed status of various PFAS, could negatively affect the overall treatment efficiency.<br>
+In this study, we evaluated the UV/sulfite process for degrading PFAS in sorption regenerants. Results indicate that organic solvents inhibit PFAS treatment, with ethanol exhibiting a more detrimental effect than methanol. The proposed inhibition mechanism is interference with hydrated electron formation and competitive reaction. Inorganic salts reduced defluorination efficiency at high concentrations. Sodium chloride had negligible impact on hydrated formation or attenuation, implying a different inhibition mechanism has occurred compared to ethanol.<br>
+A practical solution involving regenerant dilution demonstrated enhanced degradation and defluorination efficiencies, while additional transformation products are formed. Comparison of alternative photoreductive processes emphasized the effectiveness of the UV/sulfite process in practical implementation.<br> 
+This research contributes to advancing PFAS treatment strategies by providing insights into process efficiencies under realistic conditions, identifying inhibition steps, and proposing scalable solutions.
+
 
 
 <div class="row">
