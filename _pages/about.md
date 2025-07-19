@@ -1,6 +1,11 @@
 ---
 layout: about
 title: about
+description: >
+  I am a Research Assistant at the Sustainable Environmental Technologies Lab in the Department of Civil and Environmental Engineering at Seoul National University. With a background in chemistry and environmental engineering, I am deeply interested in advancing water treatment technologies and conducting environmental impact analyses to support informed decision-making. For more details, please see the sections below or visit my CV page.
+  Areas of Focus:
+  • Water treatment: physico-chemical water treatment, water-energy-environment nexus, water reuse, resource recovery, photochemical degradation, organic micropollutants, byproduct formation, sustainable process design, per- and polyfluoroalkyl substances (PFAS)
+  • Environmental impact analysis: Life-cycle assessment (LCA) of products and emerging technologies, macroscopic-scale material flow analysis (MFA), energy model, decarbonization, water-energy-environment nexus, framework development incorporating artificial intelligence (AI)
 permalink: /
 # subtitle:  # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
