@@ -7,11 +7,7 @@ first_name: Yerin
 middle_name: 
 last_name: Choe
 email: gygyerin@snu.ac.kr
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I am a Research Assistant at the Sustainable Environmental Technologies Lab in the Department of Civil and Environmental Engineering at Seoul National University. With a background in chemistry and environmental engineering, I am deeply interested in advancing water treatment technologies and conducting environmental impact analyses to support informed decision-making. For more details, please see the sections below or visit my CV page.
-  Areas of Focus:
-  • Water treatment: physico-chemical water treatment, water-energy-environment nexus, water reuse, resource recovery, photochemical degradation, organic micropollutants, byproduct formation, sustainable process design, per- and polyfluoroalkyl substances (PFAS)
-  • Environmental impact analysis: Life-cycle assessment (LCA) of products and emerging technologies, macroscopic-scale material flow analysis (MFA), energy model, decarbonization, water-energy-environment nexus, framework development incorporating artificial intelligence (AI)
+description: Yerin Choe's personal website. # the website description (if blank, full name will be used instead)
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
