@@ -7,7 +7,8 @@ first_name: Yerin
 middle_name: 
 last_name: Choe
 email: gygyerin@snu.ac.kr
-description: Yerin Choe's personal website. # the website description (if blank, full name will be used instead)
+description: > # the website description (if blank, full name will be used instead)
+  I am a Research Assistant at the Sustainable Environmental Technologies Lab in the Department of Civil and Environmental Engineering at Seoul National University. With a background in chemistry and environmental engineering, I am deeply interested in advancing water treatment technologies and conducting environmental impact analyses to support informed decision-making.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
