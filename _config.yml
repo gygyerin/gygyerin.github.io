@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Yerin
 middle_name: 
 last_name: Choe
-email: gygyerin@snu.ac.kr
+email: yrchoe@utexas.edu
 description: > # the website description (if blank, full name will be used instead)
   I am a Research Assistant at the Sustainable Environmental Technologies Lab in the Department of Civil and Environmental Engineering at Seoul National University. With a background in chemistry and environmental engineering, I am deeply interested in advancing water treatment technologies and conducting environmental impact analyses to support informed decision-making.
 footer_text: >
@@ -81,7 +81,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
+linkedin_username: yerin-choe # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
