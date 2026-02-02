@@ -90,3 +90,6 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
+.bg-burntorange {
+  background-color: #bf5700 !important;
+}
