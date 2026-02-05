@@ -41,7 +41,7 @@ education:
   position: >- 
     Department of Civil, Architectural and Environmental Engineering <br/>
     Ph.D. Student
-  date: Aug. 2025 - present
+  date: Aug. 2025 - Present
 - name: Seoul National University
   logo: /assets/images/badges/SNU.svg
   position: M.S. in Chemistry
@@ -58,5 +58,7 @@ experience:
   date: Mar. 2024 - Feb. 2025
 
 awards:
-- name: Fellowship Name
+- name: College Recruitment Fellowship (UT Austin)
+  date: 2025 - Present
+- name: Conference Paper Award at 2024 KSEE Conference
   date: 2025
