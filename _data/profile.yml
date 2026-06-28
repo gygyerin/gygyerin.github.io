@@ -22,13 +22,16 @@ linkedin: yerin-choe
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi! My name is Yerin Choe, and I am a first-year PhD student at The University of Texas at Austin, focusing on water treatment technologies for safe and sustainable environmental systems. My research interests include advanced reductive processes, electrochemical defluorination of PFAS, non-noble metal catalysts, combined and scalable process design.
+    Hi! I am Yerin
   </p>
   <p>
-    I previously earned my M.S. in Civil and Environmental Engineering from Seoul National University, where my work in the Sustainable Environmental Technology Lab centered on PFAS degradation via UV/sulfite process for post-sorption treatment. I was also involved in developing analytical methods and studying sorption for PFAS. As an intern in the Metabolism-Carbon Modeling Group, I conducted nitrogen mass flow analysis in South Korea's food sector. My undergraduate research in  organic synthesis and organometallic catalyst provided a strong foundation for my academic journey.
+    I am a first-year PhD student at The University of Texas at Austin, focusing on water treatment technologies for safe and sustainable environmental systems. My research interests include advanced reductive processes, electrochemical defluorination of PFAS, non-noble metal catalysts, combined and scalable process design.
   </p>
   <p>
-    I am deeply interested in developing innovative degradation processes and uncovering mechanisms through rigorous scientific investigation to advance sustainability and environmental engineering research. I'm always open to conversations about the environment, PFOA, technologies, and PhD life. Thank you for connecting with me!
+    I previously earned my M.S. in Civil and Environmental Engineering from Seoul National University, where my work in the Sustainable Environmental Technology Lab centered on PFAS degradation via UV/sulfite process for post-sorption treatment. I was also involved in developing analytical methods and studying sorption for PFAS. As an intern in the Metabolism-Carbon Modeling Group, I conducted nitrogen mass flow analysis in South Korea's food sector. My undergraduate research in organic synthesis and organometallic catalyst provided a foundation for my academic journey.
+  </p>
+  <p>
+    I am deeply interested in developing innovative degradation processes and uncovering mechanisms through rigorous scientific investigation to advance sustainability and environmental engineering research. I'm always open to conversations about the environment, PFAS, technologies, and PhD life. Thank you for connecting with me!
   </p>
 # <p>
 #   For more details, please see my <a href="https://yerin-choe.github.io" target="_blank">CV</a> page.
@@ -61,6 +64,8 @@ experience:
   date: Mar. 2024 - Feb. 2025
 
 awards:
+- name: WEAT SDC 3rd Prize
+  date: 2026
 - name: College Recruitment Fellowship (UT Austin)
   date: 2025 - Present
 - name: Conference Paper Award at 2024 KSEE Conference
